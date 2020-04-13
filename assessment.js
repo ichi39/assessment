@@ -60,7 +60,8 @@ userNameInput.onkeydown = event => {
 const answers = [
     '{userName}のいいところは、重いところです。{userName}の重さは体力です',
     '{userName}のいいところは、かわいいところです。{userName}の可愛さは正義です',
-    '{userName}のいいところは、賢いところです。{userName}のかしこさは素敵です'
+    '{userName}のいいところは、賢いところです。{userName}のかしこさは素敵です',
+    '{userName}のいいところは、笑顔です。{userName}の笑顔はみんなを幸せにします'
 ];
 
 /**
